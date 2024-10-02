@@ -1,6 +1,18 @@
 
 # Learning Data Structures and Algorithms (DSA) with TypeScript
 
+
+![GitHub Repo stars](https://img.shields.io/github/stars/avishek999/Dsa-with-ts?style=social)
+![GitHub forks](https://img.shields.io/github/forks/avishek999/Dsa-with-ts?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/avishek999/Dsa-with-ts?style=social)
+<br />
+![GitHub last commit](https://img.shields.io/github/last-commit/avishek999/Dsa-with-ts)
+
+
+
+
+
+
 I am currently learning **Data Structures and Algorithms (DSA)** using **TypeScript** to sharpen my problem-solving skills as a full-stack developer. This journey is supported by the **Supreme Batch 3.0** and **Supreme Batch 2.0** courses.
 
 ## Courses and Tutors
